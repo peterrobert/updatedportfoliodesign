@@ -3,7 +3,7 @@ import AppProjectCard from './components/project/AppProjectCard';
 
 function App() {
   return (
-    <div className="App">
+    <div className="app-container">
         <AppProjectCard  />
     </div>
   );
