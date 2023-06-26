@@ -9,7 +9,7 @@ import CardMedia from "@mui/material/CardMedia";
 import Button from "@mui/material/Button";
 import Typography from "@mui/material/Typography";
 // ==== Image ====
-import projectImage from "../../assets/images/projectImage.jpeg"
+import projectImage from "../../assets/images/projectImage.jpeg";
 import AppBadge from "../shared/AppBadge";
 
 const AppProjectCard = () => {
@@ -21,19 +21,25 @@ const AppProjectCard = () => {
         title="green iguana"
       />
       <CardContent>
-        <Typography gutterBottom variant="h5" component="div" className={styles.projectCardTitle}>
-           Multi-Post Stories Gain+Glory
+        <Typography
+          gutterBottom
+          variant="h5"
+          component="div"
+          className={styles.projectCardTitle}
+        >
+          Multi-Post Stories Gain+Glory
         </Typography>
-         <div className={styles.badgesContainer}>
-           <AppBadge />
-           <AppBadge />
-           <AppBadge />
-           <AppBadge />
-         </div>
+        <div className={styles.badgesContainer}>
+          <AppBadge title="ruby on rails" />
+          <AppBadge title="css" />
+          <AppBadge title="Javascript" />
+          <AppBadge title="React" />
+        </div>
       </CardContent>
-      <CardActions>
-        <Button size="small">Share</Button>
-        <Button size="small">Learn More</Button>
+      <CardActions className={styles.viewProjectButton}>
+        <Button size="small" variant="contained" color="success">
+          See project
+        </Button>
       </CardActions>
     </Card>
   );

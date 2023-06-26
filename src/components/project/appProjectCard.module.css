@@ -13,5 +13,10 @@
 .badgesContainer{
     display: flex;
     flex-wrap: nowrap;
-    justify-content: space-evenly;
+    justify-content: center;
+}
+
+.viewProjectButton{
+   display: flex;
+   justify-content: center;
 }

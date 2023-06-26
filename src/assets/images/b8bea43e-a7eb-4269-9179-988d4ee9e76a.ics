@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Calendly//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTAMP:20230606T072103Z
+UID:calendly-729545717
+DTSTART:20230606T150000Z
+DTEND:20230606T163000Z
+CLASS:PRIVATE
+DESCRIPTION:Event Name: "Dismantling Impostor Syndrome"\nEvent Description:
+  Host: Sandra LópezType of Event: Career ConceptsDescription:Join us for 
+ an empowering session on overcoming impostor syndrome\, where we'll delve 
+ deep into understanding its impact on personal and professional growth. Th
+ is interactive session\, featuring dynamic presentations and engaging brea
+ kout room activities\, is designed to provide you with practical strategie
+ s to conquer self-doubt and embrace your unique strengths.You'll learn how
+  to identify the symptoms of impostor syndrome\, separate fact from feelin
+ g\, and reframe negative thoughts that hold you back. Open to all\, this 
+ session welcomes large groups\, creating an inclusive and supportive envir
+ onment to address this common challenge. \nDate & Time: 18:00 - 19:30 (Ea
+ st Africa Time) on Tuesday\, June 6\, 2023\nLocation: https://microverse.z
+ oom.us/j/6796720748?pwd=NENNa2UvRlkydWJjOGVCOFUzL2R1QT09#success\n\nNeed t
+ o make changes to this event?\nCancel: https://calendly.com/cancellations/
+ b8bea43e-a7eb-4269-9179-988d4ee9e76a\nReschedule: https://calendly.com/res
+ chedulings/b8bea43e-a7eb-4269-9179-988d4ee9e76a\n
+LOCATION:https://microverse.zoom.us/j/6796720748?pwd=NENNa2UvRlkydWJjOGVCOF
+ UzL2R1QT09#success
+SUMMARY:"Dismantling Impostor Syndrome" with Sandra López
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
